@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Saimon Tavares!
 
 🎓 Estudante de Ciência da Computação na Universidade Federal do Amazonas (UFAM)  
-📱 Foco em **Engenharia de Software**, **Machine Learning** e **Análise de Dados** 
+📱 Foco em **Embarcados**, **Engenharia de Software**, **Machine Learning** e **Análise de Dados** 
 🏆 Vencedor da Maratona de Programação do Norte 2022  
 
 ---
