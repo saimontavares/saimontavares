@@ -29,7 +29,7 @@ Aplicativo com integração a sensores de água via API, com visualização de d
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimontavares&show_icons=true&theme=default&hide=prs,issues" />
@@ -37,6 +37,7 @@ Aplicativo com integração a sensores de água via API, com visualização de d
 </p>
 
 ---
+-->
 
 ## 📫 Contato
 
