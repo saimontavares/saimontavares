@@ -12,7 +12,6 @@
 
 - **Linguagens:** `Java`, `Python`, `C/C++`, `JavaScript`
 - **Mobile:** Android Studio, Kotlin, Java
-- **Machine Learning:** TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Banco de Dados:** MySQL, SQLite, NoSQL
 - **DevOps / Outros:** Git, GitHub, Linux, Docker (básico), Shell Script
 
