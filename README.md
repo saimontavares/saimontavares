@@ -19,7 +19,7 @@
 
 ## 🧪 Projetos e Pesquisas
 
-### 🔬 Projeto
+### 🔬 Coleta de sinais em redes móveis
 Pesquisa em computação embarcada Android com foco em comunicação móvel 4G/5G e aprendizado de máquina.  
 Desenvolvimento de protótipos para coleta/análise de dados e detecção de padrões usando ML.
 
